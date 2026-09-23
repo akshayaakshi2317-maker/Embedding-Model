@@ -1,4 +1,4 @@
-# Sentence Transformer
+# Sentence Embedding Using Transformer
 
 ##  Project Overview
 
